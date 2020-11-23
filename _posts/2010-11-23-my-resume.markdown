@@ -1,0 +1,57 @@
+---
+layout: page
+title:  "My Resume"
+date:   2020-11-23 01:57:12 -0500
+categories: resume
+---
+
+
+Jason Chilcott
+Full Stack Developer
+https://github.com/jasonchilcott | http://jasonchilcott.com
+
+
+Experienced in Ruby, Ruby on Rails, JavaScript, React, Redux, HTML, CSS, PostgreSQL, MySQL, Git. Possesses strong communication skills and would thrive in highly collaborataive environments. Also skilled in Photoshop, Lightroom, Final Cut Pro, and is knowledgeable about the ins & outs of the Film & Television industry.
+
+TECHNICAL PROJECTS
+
+WatchMatch - Github | Demo
+Web application that allows users to rate films and matches users based on their ratings so that users with similar tastes can discuss movies and watch them together
+● Utilize movie APIs
+● Wrote matching algorithm 
+● Designed wireframes
+● etc
+
+Munch - Github | Demo
+Web application that lets you see what restaurants are in your area so that you can favorite them and make reservations.
+● Action verb + what you did + result
+● Action verb + what you did + result
+● Action verb + what you did + result
+● Action verb + what you did + result
+
+EXPERIENCE
+Background Acting (Central Casting, Empire Casting, Sylvia Fay, Waldron Casting, etc)  		2017 - 2020
+New York, NY
+
+Background, Featured Background, Stand In, and Photo Double on various films and television shows such as: Succession, Law and Order: SVU, Murphy Brown, Pose, Blue Bloods, Elementary, Madam Secretary, John Wick 3, West Side Story (2021, Steven Spielberg), and many more.
+ 
+(Here’s me as a waiter on Succession)
+
+
+Writing, Producing, Directing, Photography, Camera Work.				2011 - 2017
+Freelance										New York, NY
+● Action verb + what you did + result
+● Action verb + what you did + result
+
+EDUCATION
+
+Flatiron School									Aug 2020 -  December 2020
+Full Stack Web Development, Ruby on Rails and JavaScript program		New York, NY
+
+New York Film Academy 								2006 - 2011
+Filmmaking 										New York, NY
+
+
+Pennsylvania College of Art and Design						2003 - 2006
+Fine Art, Photography 								Lancaster, PA
+
