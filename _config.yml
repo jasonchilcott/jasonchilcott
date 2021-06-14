@@ -88,6 +88,7 @@ defaults:
     values:
       layout: home
       share: true
+      
 
 # Site Author
 author:
