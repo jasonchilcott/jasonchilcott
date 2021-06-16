@@ -93,7 +93,7 @@ defaults:
 # Site Author
 author:
   name: Jason Chilcott
-  picture:
+  picture: /assets/img/avatar.jpeg
   email: jasonchilcott@me.com
   twitter: http://www.twitter.com/jasonchilcott
   links:
