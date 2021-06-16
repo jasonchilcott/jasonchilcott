@@ -45,4 +45,4 @@ The match percentages are calculated on the frontend currently.
 
 
 
-WATCHMATCH is currently live at [https://watchmatch.herokuapp.com/](https://watchmatch.herokuapp.com/) and it's a living project, known bugs can be found as issues on https://github.com/jasonchilcott/watchmatch-backend and https://github.com/jasonchilcott/watchmatch-frontend. PRs are welcome.
+WATCHMATCH is currently live at [https://watchmatch.herokuapp.com/](https://watchmatch.herokuapp.com/) and it's a living project, known bugs can be found as issues on [watchmatch-backend](https://github.com/jasonchilcott/watchmatch-backend) and [watchmatch-frontend](https://github.com/jasonchilcott/watchmatch-frontend). PRs are welcome.
