@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  "WATCHMATCH"
-date:   2021-06-15 12:30:00 -0600
+title:  "Career Changes & WATCHMATCH"
+date:   2021-06-16 12:30:00 -0400
 categories: project
 ---
 ![image](/assets/img/wm-screenshot.png)
 
-
+## *I am currently job hunting, as of June 2021. Please see my [resume](/resume/resume) and [get in touch](mailto:jasonchilcode@gmail.com)*
 
 Before COVID-19 shut down the majority of film and television production (and many other industries as well) I had been working in the world of film and TV for many years. I had gone to school for writing and directing, and had been a writer, producer, director, camera assistant, production manager, wardrobe assistant, gaffer... just about every crew job on set. Short films I had written, produced, or directed had been shown in film festivals across the world, and a few of them even won awards. Most recently I ended up working as a background actor/stand-in/photo double, managing to join SAG-AFTRA and work on most of the scripted TV shows that shoot in the New York area, and some big movies, too.  
 
