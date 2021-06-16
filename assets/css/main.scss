@@ -6,3 +6,16 @@ sitemap: false
 @charset "utf-8";
 
 @import "so-simple";
+
+.announcement {
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  a {
+    color: white;
+    &:hover {
+      color:red;
+    }
+  }
+}
