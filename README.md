@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Github
+I am currently looking for engineering roles.  
+Check out my [resume.](https://www.jasonchilcott.com/resume/resume/) 
 
 <!--
 **jasonchilcott/jasonchilcott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
