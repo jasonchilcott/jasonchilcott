@@ -17,8 +17,8 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/dark.css"
 locale: en-US
-title: "Jason Chilcott"
-description: "Full Stack Developer"
+title: "JASON CHILCOTT"
+description: "FULL STACK DEVELOPER"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: http://www.jasonchilcott.com
 logo: # path of site logo, e.g. "/images/logo.png"
