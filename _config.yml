@@ -20,7 +20,7 @@ locale: en-US
 title: "JASON CHILCOTT"
 description: "FULL STACK DEVELOPER"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: http://www.jasonchilcott.com
+url: https://www.jasonchilcott.com
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
@@ -95,7 +95,7 @@ author:
   name: Jason Chilcott
   picture: /assets/img/avatar.jpeg
   email: jasonchilcode@me.com
-  twitter: http://www.twitter.com/jasonchilcott
+  twitter: https://www.twitter.com/jasonchilcott
   links:
     - title:
       url:
